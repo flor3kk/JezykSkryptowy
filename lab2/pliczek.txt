@@ -1,0 +1,3 @@
+
+wynik dzialania obliczania pola dla promienia 123: 47529
+wynik dzialania obliczania obwodu dla promienia 123: 773

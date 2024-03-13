@@ -1,0 +1,5 @@
+info
+delta mniejsza od 0: -8, wiec brak rozwiazan
+delta wieksza od 0: 20: jej wyniki to: x1 = 3.354, x2 = -3.354
+delta wieksza od 0: 16: jej wyniki to: x1 = 4.0, x2 = -4.0
+delta mniejsza od 0: -44, wiec brak rozwiazan
